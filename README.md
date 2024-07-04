@@ -13,7 +13,7 @@ Sonic Odyssey Bot is a Node.js application for sending SOL (Solana) cryptocurren
 ## Prerequisites
 
 - Node.js installed on your machine
-- `npm` or `yarn` package manager
+- `npm` 
 
 ## Installation
 
