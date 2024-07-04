@@ -1,7 +1,7 @@
 const fs = require('fs');
 const readlineSync = require('readline-sync');
 const colors = require('colors');
-
+c
 const {
   sendSol,
   generateRandomAddresses,
