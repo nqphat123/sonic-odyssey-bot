@@ -20,7 +20,7 @@ Sonic Odyssey Bot is a Node.js application for sending SOL (Solana) cryptocurren
 1. Clone the repository:
 
    ```bash
-   https://github.com/vinhben12/sonic-odyssey-bot.git
+   https://github.com/nqphat123/sonic-odyssey-bot
    ```
 
 2. Navigate into the project directory:
@@ -68,4 +68,5 @@ Follow the prompts to:
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or fixes.
+"# sonic-odyssey-bot" 
 "# sonic-odyssey-bot" 
